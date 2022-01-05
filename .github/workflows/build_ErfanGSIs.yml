@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://bigota.d.miui.com/V10.4.2.0.PFKCNXM/miui_RAPHAELS_V10.4.2.0.PFKCNXM_8c927a5be2_9.0.zip
+  ROM_NAME: MIUI_10
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
